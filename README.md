@@ -2,7 +2,7 @@
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/adeline-pepela/Git-Search.git```
+<!-- * git clone ```https://github.com/adeline-pepela/Git-Search.git``` -->
 
 * cd Git-Search
 
