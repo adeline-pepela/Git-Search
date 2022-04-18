@@ -28,7 +28,7 @@
 
 ## Contact Information 
 
-<!-- If you have any question or contributions, please email me at [adelinemakokha@gmail.com] -->
+If you have any question or contributions, please email me at [adelinemakokha@gmail.com]
 
 ## License
 * *MIT License:*
