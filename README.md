@@ -1,16 +1,38 @@
-# GitSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
 
-## Development server
+* git clone ```https://github.com/adeline-pepela/Git-Search.git```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* cd Git-Search
 
-## Code scaffolding
+* code . or atom . based on the text editor you have.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Run ng serve for a dev server. 
 
-## Build
+* Navigate to http://localhost:4200/. 
+
+* `npm install && ng serve`
+
+## Technology used ##
+
+* Angular CLI
+* HTML 
+* CSS
+* Bootstrap 
+* Typescript
+* Generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+
+## Known Bugs
+* No known bug now but pull requests are encouraged
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [adelinemakokha@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2022 **Adeline Makokha**
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
