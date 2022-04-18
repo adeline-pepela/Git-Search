@@ -23,8 +23,8 @@
 * Typescript
 * Generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
-<!-- ## Known Bugs
-* No known bug now but pull requests are encouraged -->
+ ## Known Bugs
+* No known bug now but pull requests are encouraged 
 
 ## Contact Information 
 
