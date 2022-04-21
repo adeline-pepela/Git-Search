@@ -2,8 +2,8 @@
     padding: 8px 20px;
 }
 img{
-   height: 400px;
-   width: 400px;
+   height: 250px;
+   width: 250px;
    margin-bottom: 30px;
 }
 /* my navbar */
@@ -19,8 +19,9 @@ margin-top: 10px;
 }
 
 .row{
-    background-image: url("../../../assets/images/github.jpg");
-    background-attachment: fixed;
+    background: linear-gradient(#e7e4eed2,
+    #dfdfe9e8), url("../../../assets/images/github.jpg");
+    /* background-attachment: fixed;  */
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -28,4 +29,15 @@ margin-top: 10px;
 }
 .card shadow{
     background-color: aquamarine;
+}
+#user,#user2{
+    width: 310px;
+
+}
+.profile{
+    margin-right: 60px;
+}
+#user>a,#user2>a{
+    text-decoration: none;
+
 }
