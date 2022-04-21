@@ -78,7 +78,7 @@
                 <br>
               </div>
             </div>
-            <div class="col-md-4 m-2 card" id="user2" *ngFor="let repo of repos">
+            <div class="col-md-4 m-2 card" id="user2" *ngFor="let repo of repos" appHighlight >
               <a href="{{repo.html_url}}" class="github-card" data-github="Nexmo/nexmo-ruby">
                 <h4>{{repo.name}}</h4>
                 <p style="color: black;">{{repo.description}}</p>
@@ -134,7 +134,7 @@
 
         <div class="col-md-8 row-card ">
           <div class="row">
-            <div class="col-md-3 m-2 card " id="user" *ngFor="let repo of repos">
+            <div class="col-md-3 m-2 card " id="user" *ngFor="let repo of repos" appHighlight>
               <a href="{{repo.html_url}}" class="github-card" data-github="Nexmo/nexmo-ruby">
                 <h4>{{repo.name}}</h4>
                 <p style="color: black;">{{repo.description}}</p>
